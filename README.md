@@ -25,11 +25,12 @@
 
 <br>
 
+
 ---
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
 
 ## `$ whoami`
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
 
 ```yaml
 name     : Ankit Sigdel
@@ -125,7 +126,7 @@ HEAD     chore: never stopping
 
 ## `$ ping ./socials`
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:sigdelankit214@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-sigdelankit214%40gmail.com-AFA060?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=764134"/>
